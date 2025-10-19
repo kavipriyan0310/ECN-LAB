@@ -24,6 +24,7 @@
 
 **CIRCUIT DIAGRAM:**
 
+![Uploading image.png…]()
 
 
 
